@@ -1,5 +1,5 @@
 # Vertical-Slice-Architecture
-ASP.Net Core 2.2 Restful API starter template created with vertical slices
+ASP.Net Core 2.2 Restful WebAPI starter template created with vertical slices
 <div>
         <h2>Features</h2>
         <ul>
